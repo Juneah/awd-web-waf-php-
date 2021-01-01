@@ -87,5 +87,4 @@ if($waf_status){
 	}
 	JWaf();
 }
-var_dump($_GET);
 ?>
